@@ -1,0 +1,35 @@
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\bin\Debug\KinectUserHeight.exe
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\bin\Debug\KinectUserHeight.pdb
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\MainWindow.baml
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\MainWindow.g.cs
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\App.g.cs
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight_MarkupCompile.cache
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.g.resources
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.Properties.Resources.resources
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.exe
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.pdb
+C:\Users\osman\Downloads\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.exe
+C:\Users\osman\Downloads\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.pdb
+C:\Users\osman\Downloads\KinectUserHeight\KinectUserHeight\KinectUserHeight\bin\Debug\KinectUserHeight.exe
+C:\Users\osman\Downloads\KinectUserHeight\KinectUserHeight\KinectUserHeight\bin\Debug\KinectUserHeight.pdb
+C:\Users\osman\Downloads\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\MainWindow.baml
+C:\Users\osman\Downloads\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\MainWindow.g.cs
+C:\Users\osman\Downloads\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\App.g.cs
+C:\Users\osman\Downloads\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight_MarkupCompile.cache
+C:\Users\osman\Downloads\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.g.resources
+C:\Users\osman\Downloads\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.Properties.Resources.resources
+C:\Users\osman\Downloads\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.csproj.GenerateResource.Cache
+C:\Users\osman\Desktop\Kinect4School\KinectUserHeight\KinectUserHeight\KinectUserHeight\bin\Debug\KinectUserHeight.exe
+C:\Users\osman\Desktop\Kinect4School\KinectUserHeight\KinectUserHeight\KinectUserHeight\bin\Debug\KinectUserHeight.pdb
+C:\Users\osman\Desktop\Kinect4School\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\MainWindow.baml
+C:\Users\osman\Desktop\Kinect4School\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\MainWindow.g.cs
+C:\Users\osman\Desktop\Kinect4School\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\App.g.cs
+C:\Users\osman\Desktop\Kinect4School\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight_MarkupCompile.cache
+C:\Users\osman\Desktop\Kinect4School\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.g.resources
+C:\Users\osman\Desktop\Kinect4School\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.Properties.Resources.resources
+C:\Users\osman\Desktop\Kinect4School\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.csproj.GenerateResource.Cache
+C:\Users\osman\Desktop\Kinect4School\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.exe
+C:\Users\osman\Desktop\Kinect4School\KinectUserHeight\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.pdb

@@ -1,0 +1,19 @@
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\bin\Debug\gestures.01.exe.config
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\bin\Debug\gestures.01.exe
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\bin\Debug\gestures.01.pdb
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\bin\Debug\Kinect.Toolbox.dll
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\bin\Debug\Utility.dll
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\bin\Debug\Utility.pdb
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\obj\Debug\gestures.01.csprojResolveAssemblyReference.cache
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\obj\Debug\MainWindow.baml
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\obj\Debug\MainWindow.g.cs
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\obj\Debug\App.g.cs
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\obj\Debug\gestures.01_MarkupCompile.cache
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\obj\Debug\gestures.01.g.resources
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\obj\Debug\gestures._01.Properties.Resources.resources
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\obj\Debug\gestures.01.csproj.GenerateResource.Cache
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\obj\Debug\gestures.01.exe
+c:\users\mtnylmz\documents\visual studio 2012\Projects\gestures.01\gestures.01\obj\Debug\gestures.01.pdb
+C:\Users\MtnYlmZ\Desktop\skeletal\5.Skeletal Tracking\SkeletalTracking\gestures.01\gestures.01\bin\Debug\gestures.01.exe.config
+C:\Users\MtnYlmZ\Desktop\skeletal\5.Skeletal Tracking\SkeletalTracking\gestures.01\gestures.01\obj\Debug\gestures.01.exe
+C:\Users\MtnYlmZ\Desktop\skeletal\5.Skeletal Tracking\SkeletalTracking\gestures.01\gestures.01\obj\Debug\gestures.01.pdb
